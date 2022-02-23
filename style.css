@@ -46,7 +46,7 @@ h4 {
 }
 
 .profile-card {
-    width: 400px;
+    max-width: 400px;
     height: 450px;
     margin: 100px auto;
     border-radius: 1rem;
